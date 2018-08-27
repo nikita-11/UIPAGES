@@ -1,0 +1,14 @@
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\bin\Debug\JavaTest.exe.config
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\bin\Debug\JavaTest.exe
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\bin\Debug\JavaTest.pdb
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest.csprojResolveAssemblyReference.cache
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\MainWindow.g.cs
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\App.g.cs
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest_MarkupCompile.cache
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest_MarkupCompile.lref
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\MainWindow.baml
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest.g.resources
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest.Properties.Resources.resources
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest.csproj.GenerateResource.Cache
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest.exe
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Debug\JavaTest.pdb

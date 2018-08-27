@@ -1,0 +1,13 @@
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\bin\Release\JavaTest.exe.config
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\bin\Release\JavaTest.exe
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\bin\Release\JavaTest.pdb
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\MainWindow.g.cs
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\App.g.cs
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\JavaTest_MarkupCompile.cache
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\JavaTest_MarkupCompile.lref
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\MainWindow.baml
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\JavaTest.g.resources
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\JavaTest.Properties.Resources.resources
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\JavaTest.csproj.GenerateResource.Cache
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\JavaTest.exe
+C:\Users\Grad37\Desktop\Team2\JavaTest\JavaTest\obj\Release\JavaTest.pdb

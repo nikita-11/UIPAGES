@@ -1,0 +1,13 @@
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\bin\Debug\Login_Page.exe.config
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\Login_Page.csprojResolveAssemblyReference.cache
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\MainWindow.baml
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\MainWindow.g.cs
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\App.g.cs
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\Login_Page_MarkupCompile.cache
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\Login_Page.g.resources
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\Login_Page.Properties.Resources.resources
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\Login_Page.csproj.GenerateResource.Cache
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\bin\Debug\Login_Page.exe
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\bin\Debug\Login_Page.pdb
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\Login_Page.exe
+C:\Users\Grad37\Desktop\Team2\Login_Page\Login_Page\obj\Debug\Login_Page.pdb

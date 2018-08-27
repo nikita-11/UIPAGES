@@ -1,0 +1,14 @@
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\bin\Debug\Front_Page.exe.config
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\bin\Debug\Front_Page.exe
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\bin\Debug\Front_Page.pdb
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page.csprojResolveAssemblyReference.cache
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\MainWindow.g.cs
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\App.g.cs
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page_MarkupCompile.cache
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page_MarkupCompile.lref
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\MainWindow.baml
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page.g.resources
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page.Properties.Resources.resources
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page.csproj.GenerateResource.Cache
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page.exe
+C:\Users\Grad37\Desktop\Team2\Front_Page\Front_Page\obj\Debug\Front_Page.pdb

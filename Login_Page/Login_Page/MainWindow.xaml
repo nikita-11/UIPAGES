@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfApplication1.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="" Height="300" Width="300">
+
+
+    <Grid>
+        <Border>
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03" >
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <!--<GradientStop Color="Blue" Offset="0.67"/>-->
+                   <GradientStop Color="SkyBlue" Offset="0.567"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <StackPanel HorizontalAlignment="Center" Margin="200"
+                        Width="400"
+                        Background="DarkBlue">
+
+                <Label Margin="15 "
+                       Content="LOGIN"
+               FontSize="19" HorizontalAlignment="Center"
+               FontFamily= "Lucida Sans"
+    FontWeight="SemiBold"/>
+        <Label Name="UsernameLabel" Margin="5"
+               Content="Username" FontSize="16" FontFamily= "Lucida Sans"
+    FontWeight="SemiBold" />
+        
+            <TextBox Margin="8"
+                 Background="WhiteSmoke" Height="25" HorizontalAlignment="Left"
+                 Foreground="Black" Width="270"
+                     BorderBrush="DodgerBlue" BorderThickness="1" />
+  
+        <Label Margin="5" Content="Password" FontSize="16" FontFamily= "Lucida Sans"
+    FontWeight="SemiBold"/>
+                <PasswordBox Margin="8" HorizontalAlignment="Left"
+                     BorderBrush="DodgerBlue"  Height="25" BorderThickness="1" 
+                     Background="WhiteSmoke" Foreground="Black" Width="270" />
+        <Button Margin="15"
+                Background="GreenYellow"
+                FontFamily= "Lucida Sans"
+                Foreground="Black" Width="100" Height="25"
+                Content="Submit" />
+    </StackPanel>
+          
+        </Border>
+    </Grid>
+</Window>
